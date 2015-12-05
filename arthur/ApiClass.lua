@@ -13,7 +13,7 @@ function Api:init( provider, params, app_key, oauth_host, callback )
   self._callback = callback
   self.params = params
 
-  -- TODO: implement token cache
+  --== Local cache
   self.local_cache = nil
 
   --== Set up config
