@@ -17,7 +17,7 @@
 local Arthur = require("arthur.mod_arthur")
 --============================================================================--
 --== Initialize with your public `app` key from oauth.io
-Arthur.init( 'WiHEIpczsPWJgcMBZ1JZ9vhABmQ' )
+Arthur.init( '<oauthio_public_application_key>' )
 --== Forward reference
 local tumblr_api
 --== Demo function
