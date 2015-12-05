@@ -68,7 +68,7 @@ local function printTable( t, indent )
   end
 end
 
---== Alias to 'p' and 'trace'
+--== Alias to 'trace'
 Utils.trace = printTable
 
 return Utils
