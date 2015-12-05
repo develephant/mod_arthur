@@ -1,10 +1,10 @@
 # mod_arthur
 
-## A Lua based module to interface OAuth.io with CoronaSDK.
+### A Lua based module to interface OAuth.io with CoronaSDK.
 
 __[Click Here to Download Module](https://github.com/develephant/mod_arthur/archive/master.zip)__
 
-Read the Docs: [http://mod-arthur.readthedocs.org/](http://mod-arthur.readthedocs.org/)
+__Read the Docs:__ [http://mod-arthur.readthedocs.org/](http://mod-arthur.readthedocs.org/)
 
 ---
 
