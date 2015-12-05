@@ -19,3 +19,5 @@ This module only works with [CoronaSDK](http://coronalabs.com) Lua based project
 ## Credits
 
 The mod_arthur module uses the [30Log](https://github.com/Yonaba/30log) class module.
+
+:elephant:
