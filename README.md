@@ -4,7 +4,9 @@
 
 __[Click Here to Download Module](https://github.com/develephant/mod_arthur/archive/master.zip)__
 
-__Read the Docs:__ [http://mod-arthur.readthedocs.org/](http://mod-arthur.readthedocs.org/) [![Documentation Status](https://readthedocs.org/projects/mod-arthur/badge/?version=latest)](http://mod-arthur.readthedocs.org/?badge=latest)
+__Read the Docs:__ [http://mod-arthur.readthedocs.org/](http://mod-arthur.readthedocs.org/)
+
+[![Documentation Status](https://readthedocs.org/projects/mod-arthur/badge/?version=latest)](http://mod-arthur.readthedocs.org/?badge=latest)
 
 ---
 
